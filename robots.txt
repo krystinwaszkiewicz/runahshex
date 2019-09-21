@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oongerohvo.briankall.ca/sitemap.xml
